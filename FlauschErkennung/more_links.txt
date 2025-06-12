@@ -1,0 +1,5 @@
+https://huggingface.co/oliverguhr/german-sentiment-bert
+
+https://www.analyticsvidhya.com/blog/2021/12/fine-tune-bert-model-for-sentiment-analysis-in-google-colab/
+
+https://keras.io/examples/nlp/text_extraction_with_bert/
